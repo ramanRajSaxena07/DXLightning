@@ -1,0 +1,219 @@
+[
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603224970,
+            "changeTime": 1504603224970,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603224971,
+            "changeTime": 1504603224971,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605738768,
+            "changeTime": 1504605738768,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603879264,
+            "changeTime": 1504603879264,
+            "contentHash": "98b90929d66b5fd46c84adb16ee9578a5420734a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603879276,
+            "changeTime": 1504603879276,
+            "contentHash": "3dd85d1ee4d486926d3213ae25e56545ada2827b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.cmp",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.cmp",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1504604007875,
+            "changeTime": 1504604007875,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1504603879267,
+            "changeTime": 1504603879267,
+            "contentHash": "5ab9995405bdeee9016164a7341b7023c170ad27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.css",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504603879275,
+            "changeTime": 1504603879275,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactController.js",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactController.js",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1504604030904,
+            "changeTime": 1504604030904,
+            "contentHash": "25fb643013187e7749bf8e4bb1742e9aec611b3c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactHelper.js",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504603879273,
+            "changeTime": 1504603879273,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\aura\\QuickContact\\QuickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504603879277,
+            "changeTime": 1504603879277,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning",
+        {
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604126532,
+            "changeTime": 1504604126532,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6554,
+            "modifiedTime": 1504605738770,
+            "changeTime": 1504605738770,
+            "contentHash": "a8f46ed1e0f56b77189067167b2da8c688c89a9a"
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6554,
+            "modifiedTime": 1504605738771,
+            "changeTime": 1504605738771,
+            "contentHash": "3bb308349874e7ba96384c7f428506bfe9fafdb0"
+        }
+    ],
+    [
+        "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raman.saxena\\DXLightning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605738771,
+            "changeTime": 1504605738771,
+            "contentHash": "7d76c32fcdc0ac63af5fdeb7ec1e42a27cd1dfcb"
+        }
+    ]
+]
